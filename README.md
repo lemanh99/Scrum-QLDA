@@ -7,7 +7,7 @@ Tên đề tài: Quản lý bán hàng cửa hàng điện thoại
 - Database: Mongodb 🌿
 
 ## Mục lục:
-1.[product Backlog](#p1)
+1.[Product Backlog](#p1)
 
 2.[Sprint Backlog](#p2)
 
