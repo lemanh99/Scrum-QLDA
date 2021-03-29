@@ -8,14 +8,14 @@ Tên đề tài: Quản lý bán hàng cửa hàng điện thoại
 
 ## Mục lục:
 1.[product Backlog](#p1)
-# Userstory và Product Backlog:
-Truy cập: [đây](https://dutudn-my.sharepoint.com/:x:/g/personal/102170170_sv1_dut_udn_vn/EToR3vj8Ve9MlqjTAhSFmMYB03JMQB52Y-Ns6r5HyAWrXg?e=wgdR8H)
+
 2.[Sprint Backlog](#p2)
-
-
 
 3.[Tài liệu tham khảo](#p4)
 
 <a id="p1"></a> 
+# Userstory và Product Backlog:
+Truy cập: [đây](https://dutudn-my.sharepoint.com/:x:/g/personal/102170170_sv1_dut_udn_vn/EToR3vj8Ve9MlqjTAhSFmMYB03JMQB52Y-Ns6r5HyAWrXg?e=wgdR8H)
 
-<a id="p2"></a> 
+<a id="p2"></a>
+#Sprint Backlog
